@@ -1,0 +1,17 @@
+{
+  "language": "TypeScript",
+  "installCommand": "bun install",
+  "formatCommand": "bun format",
+  "buildCommand": "bun dist",
+  "style": "Tailwind",
+  "iconSet": "Font Awesome",
+  "directories": {
+    "components": "/src/components",
+    "pages": "/src/pages",
+    "types": "/src/types",
+    "styles": "/src/styles",
+    "tailwindConfig": "/tailwind.config.js",
+    "staticAssets": "/public/assets"
+  },
+  "env": ""
+}
